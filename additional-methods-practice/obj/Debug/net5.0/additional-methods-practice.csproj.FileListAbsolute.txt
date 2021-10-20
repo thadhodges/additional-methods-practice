@@ -1,0 +1,16 @@
+C:\WORK\REPO\additional-methods-practice\additional-methods-practice\bin\Debug\net5.0\additional-methods-practice.exe
+C:\WORK\REPO\additional-methods-practice\additional-methods-practice\bin\Debug\net5.0\additional-methods-practice.deps.json
+C:\WORK\REPO\additional-methods-practice\additional-methods-practice\bin\Debug\net5.0\additional-methods-practice.runtimeconfig.json
+C:\WORK\REPO\additional-methods-practice\additional-methods-practice\bin\Debug\net5.0\additional-methods-practice.runtimeconfig.dev.json
+C:\WORK\REPO\additional-methods-practice\additional-methods-practice\bin\Debug\net5.0\additional-methods-practice.dll
+C:\WORK\REPO\additional-methods-practice\additional-methods-practice\bin\Debug\net5.0\ref\additional-methods-practice.dll
+C:\WORK\REPO\additional-methods-practice\additional-methods-practice\bin\Debug\net5.0\additional-methods-practice.pdb
+C:\WORK\REPO\additional-methods-practice\additional-methods-practice\obj\Debug\net5.0\additional-methods-practice.csproj.AssemblyReference.cache
+C:\WORK\REPO\additional-methods-practice\additional-methods-practice\obj\Debug\net5.0\additional-methods-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\REPO\additional-methods-practice\additional-methods-practice\obj\Debug\net5.0\additional-methods-practice.AssemblyInfoInputs.cache
+C:\WORK\REPO\additional-methods-practice\additional-methods-practice\obj\Debug\net5.0\additional-methods-practice.AssemblyInfo.cs
+C:\WORK\REPO\additional-methods-practice\additional-methods-practice\obj\Debug\net5.0\additional-methods-practice.csproj.CoreCompileInputs.cache
+C:\WORK\REPO\additional-methods-practice\additional-methods-practice\obj\Debug\net5.0\additional-methods-practice.dll
+C:\WORK\REPO\additional-methods-practice\additional-methods-practice\obj\Debug\net5.0\ref\additional-methods-practice.dll
+C:\WORK\REPO\additional-methods-practice\additional-methods-practice\obj\Debug\net5.0\additional-methods-practice.pdb
+C:\WORK\REPO\additional-methods-practice\additional-methods-practice\obj\Debug\net5.0\additional-methods-practice.genruntimeconfig.cache
