@@ -4,12 +4,10 @@ namespace additional_methods_practice
 {
     class Program
     {
-        //10-20-2021 not working, won't give output but no errors detected
+        
         public static string NewMethod(string p)
         {
-           return p.ToLower();
-
-            
+           return p.ToLower();   
 
         }
 
