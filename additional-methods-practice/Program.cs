@@ -17,8 +17,9 @@ namespace additional_methods_practice
         {
             Console.WriteLine($"This method returns any string to all lower case characters..." +
                 $"Please type in a string and see the results...thanks");
-
-            NewMethod(Console.ReadLine());
+            string input;
+            input = Console.ReadLine();
+            Console.WriteLine(NewMethod(input));
 
             Console.ReadKey();
 
